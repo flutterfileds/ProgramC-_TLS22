@@ -1,4 +1,4 @@
-//Program untuk menghitung alokasi pengeluaran bulanan 
+//Program untuk menghitung persentase alokasi pengeluaran bulanan 
 #include <iostream>
 using namespace std;
 
